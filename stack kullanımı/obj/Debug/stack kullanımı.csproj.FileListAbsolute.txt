@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\bin\Debug\stack kullanımı.exe.config
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\bin\Debug\stack kullanımı.exe
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\bin\Debug\stack kullanımı.pdb
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\obj\Debug\stack kullanımı.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\obj\Debug\stack_kullanımı.Form1.resources
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\obj\Debug\stack_kullanımı.Properties.Resources.resources
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\obj\Debug\stack kullanımı.csproj.GenerateResource.cache
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\obj\Debug\stack kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\obj\Debug\stack kullanımı.exe
+C:\Users\user\source\repos\stack kullanımı\stack kullanımı\obj\Debug\stack kullanımı.pdb
